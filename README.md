@@ -1,24 +1,24 @@
 
 ### Kaynaklar ve Araçlar
 
-[What is OSINT?](https://www.hackthebox.com/blog/what-is-OSINT)
-[OSINT Framework](https://osintframework.com/)
-[theHarvester](https://github.com/laramies/theHarvester)
-[spiderfoot](https://github.com/smicallef/spiderfoot)
-[recon-ng](https://github.com/lanmaster53/recon-ng)
-[archive.org](https://archive.org)
-[the Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
-[OSINT.link](https://osint.link/)
+-[What is OSINT?](https://www.hackthebox.com/blog/what-is-OSINT)
+-[OSINT Framework](https://osintframework.com/)
+-[theHarvester](https://github.com/laramies/theHarvester)
+-[spiderfoot](https://github.com/smicallef/spiderfoot)
+-[recon-ng](https://github.com/lanmaster53/recon-ng)
+-[archive.org](https://archive.org)
+-[the Ultimate OSINT Collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+-[OSINT.link](https://osint.link/)
 
 ### Pratik Yapabileceğiniz Web Sayfaları
 
-[VulnOS](https://app.hackinghub.io/hubs/vuln-os)
-[THM - Sakura](https://tryhackme.com/r/room/sakura)
-[THM - Searchlight](https://tryhackme.com/r/room/searchlightosint)
-[THM - OhSINT](https://tryhackme.com/r/room/ohsint)
-[THM - Google Dorking](https://tryhackme.com/r/room/googledorking)
-[THM - WebOSINT](https://tryhackme.com/r/room/webosint)
-[THM - Shodan](https://tryhackme.com/r/room/shodan)
+-[VulnOS](https://app.hackinghub.io/hubs/vuln-os)
+-[THM - Sakura](https://tryhackme.com/r/room/sakura)
+-[THM - Searchlight](https://tryhackme.com/r/room/searchlightosint)
+-[THM - OhSINT](https://tryhackme.com/r/room/ohsint)
+-[THM - Google Dorking](https://tryhackme.com/r/room/googledorking)
+-[THM - WebOSINT](https://tryhackme.com/r/room/webosint)
+-[THM - Shodan](https://tryhackme.com/r/room/shodan)
 
 ### Arama Motorları
 
