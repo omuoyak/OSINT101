@@ -4,8 +4,8 @@ Bu repo, **OSINT101 etkinliği** sırasında kullanılan kaynakları, slaytları
 
 ## İçerik
 
-- [Kaynaklar](OSINTKaynakları.md)  
-  Etkinlikte kullanılan kaynaklara buradan ulaşabilirsiniz.
+- [Kaynaklar](OSINT%20Kaynakları.md)  
+  Etkinlikte kullanılan kaynaklar ve bağlantılar dosyasına buradan ulaşabilirsiniz.
 
-- [Sunumu Görüntüle](slides/OSINT.pptx-1.pdf)  
+- [Sunumu Görüntüle](OSINT.pptx-1.pdf)  
   Etkinlik sunumunu PDF formatında görüntülemek için bu bağlantıyı kullanabilirsiniz.
